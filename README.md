@@ -1,4 +1,4 @@
-# metu-sis-capacity-for-requested-courses
+# metu-sis-course-capacity-for-requested-courses
 
 For the course capacity of metu, we need to check course capacities manually. We may find courses which have capacity. 
 

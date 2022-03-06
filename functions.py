@@ -2,7 +2,6 @@ import time
 from pygame import mixer
 from selenium.webdriver.common.by import By
 
-
 def scroll(driver):
     #javascript integrated code to python-selenium
     lenOfPage = driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")

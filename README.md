@@ -1,4 +1,4 @@
-# metu-sis-course-capacity-for-requested-courses
+# Course Capacity Checker
 
 For the course capacity of metu, we need to check course capacities manually. We may find courses which have capacity. 
 In order to check course capacities automatically, I have designed course capacity questioning bot by selenium. 
